@@ -1,0 +1,1 @@
+This exercise is intended to practice HTML / CSS. 
